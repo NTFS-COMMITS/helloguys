@@ -12,12 +12,12 @@ Join our Discord: www.zaptosis.weebly.com
 ░░░░░░░░░░░░░░░░▄████▄░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ]]
-local TimesToRepeatBeforeTeleport = 7
+local TimesToRepeatBeforeTeleport = 99
 
 local msg = "ntfs0001 methodz"
-local msg2 = "ADD ntfs0001 FOR FREE ROBUCKZ"
+local msg2 = "ADD ntfs0001 to WORK! and be a catgirl!"
 
-wait(12)
+wait(5)
 e=0
 repeat
 
